@@ -21,3 +21,17 @@ INJECTED from /Users/marcusblair/AndroidStudioProjects/SudokuSolver/openCV/src/m
 		ADDED from /Users/marcusblair/AndroidStudioProjects/SudokuSolver/openCV/src/main/AndroidManifest.xml:4:7-33
 		INJECTED from /Users/marcusblair/AndroidStudioProjects/SudokuSolver/openCV/src/main/AndroidManifest.xml
 		INJECTED from /Users/marcusblair/AndroidStudioProjects/SudokuSolver/openCV/src/main/AndroidManifest.xml
+uses-sdk
+INJECTED from /Users/marcusblair/AndroidStudioProjects/SudokuSolver/openCV/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/marcusblair/AndroidStudioProjects/SudokuSolver/openCV/src/main/AndroidManifest.xml
+INJECTED from /Users/marcusblair/AndroidStudioProjects/SudokuSolver/openCV/src/main/AndroidManifest.xml
+INJECTED from /Users/marcusblair/AndroidStudioProjects/SudokuSolver/openCV/src/main/AndroidManifest.xml
+INJECTED from /Users/marcusblair/AndroidStudioProjects/SudokuSolver/openCV/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/marcusblair/AndroidStudioProjects/SudokuSolver/openCV/src/main/AndroidManifest.xml
+		ADDED from /Users/marcusblair/AndroidStudioProjects/SudokuSolver/openCV/src/main/AndroidManifest.xml
+		INJECTED from /Users/marcusblair/AndroidStudioProjects/SudokuSolver/openCV/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/marcusblair/AndroidStudioProjects/SudokuSolver/openCV/src/main/AndroidManifest.xml
+		ADDED from /Users/marcusblair/AndroidStudioProjects/SudokuSolver/openCV/src/main/AndroidManifest.xml
+		INJECTED from /Users/marcusblair/AndroidStudioProjects/SudokuSolver/openCV/src/main/AndroidManifest.xml
